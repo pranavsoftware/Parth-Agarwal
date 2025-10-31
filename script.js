@@ -82,6 +82,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const currentYear = new Date().getFullYear();
     const footer = document.querySelector('footer p');
     if (footer) {
-        footer.innerHTML = `&copy; ${currentYear} Pranav Rayban. All rights reserved.`;
+        footer.innerHTML = `&copy; ${currentYear} Parth Agarwal. All rights reserved.`;
     }
 });
